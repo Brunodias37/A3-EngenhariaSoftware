@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SalesWebMvc.Models.Department">
+    <Position X="4.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAABAAAAAAAQAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Department.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SalesWebMvc.Models.SalesRecord">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAEAAAAAAAAAAAAAACAAAAAAAABAAAAAAAACAA=</HashCode>
+      <FileName>Models\SalesRecord.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SalesWebMvc.Models.Seller">
+    <Position X="1" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAEgAAAAAAQBAQAEAgAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Seller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="SalesWebMvc.Models.Enums.SaleStatus">
+    <Position X="6" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Models\Enums\SaleStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
